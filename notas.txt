@@ -1,7 +1,7 @@
 git version
 git help
 cls -> limpia la consola
-git init ->  Solo se hace la primera ves.
+git init ->  Solo se hace la primera vez.
 git status -s
 git add .
 git commit -m "Mensaje"
@@ -14,3 +14,6 @@ git config user.name
    git branch -M master
    git push -u origin master
    git clone https://github.com/damaryscl88/mi-primer-repo.git
+
+   Creamos el archivo .env(Van las configuraciones que no queremos que se suban al servidor)
+   gitignore (Va el nombre de los archivos que no queremos que se suban al servidor)
