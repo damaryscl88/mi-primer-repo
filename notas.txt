@@ -7,3 +7,10 @@ git add .
 git commit -m "Mensaje"
 git log --oneline   -> Historia de Mensaje de subida de datos
 Para desbloquearnos -> :q!
+git config --global user.name "damaryscl88"
+git config --global user.email "damaryscl88@gmail.com"
+git config user.name
+   git remote add origin https://github.com/damaryscl88/mi-primer-repo.git
+   git branch -M master
+   git push -u origin master
+   git clone https://github.com/damaryscl88/mi-primer-repo.git
