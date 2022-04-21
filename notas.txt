@@ -19,7 +19,7 @@ git config user.name
    gitignore (Va el nombre de los archivos que no queremos que se suban al servidor)
 
 <<<<<<< HEAD
-   git merge  -> Use las 2 ramas : Nos tenemos que ubicar en la rama que se va a actulizar
+<<<<<<< HEAD
 =======
    Una vez que se ha hecho un commit de los cambios, estos suelen volverse permanentes
     -git checkout -> para desplazarte y revisar el historial de commits
@@ -35,5 +35,7 @@ git config user.name
     git checkout nombre-rama -> Me desplazo a traves de las ramas
 
     git log --oneline --graph
-    
+
+    git branch -d (nombre de la rama)  -> eliminar una rama
+     
 >>>>>>> 01-rama
