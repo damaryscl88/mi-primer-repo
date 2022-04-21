@@ -5,5 +5,5 @@ git init ->  Solo se hace la primera ves.
 git status -s
 git add .
 git commit -m "Mensaje"
-git log --oneline
+git log --oneline   -> Historia de Mensaje de subida de datos
 Para desbloquearnos -> :q!
