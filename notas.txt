@@ -17,3 +17,23 @@ git config user.name
 
    Creamos el archivo .env(Van las configuraciones que no queremos que se suban al servidor)
    gitignore (Va el nombre de los archivos que no queremos que se suban al servidor)
+
+<<<<<<< HEAD
+   git merge  -> Use las 2 ramas : Nos tenemos que ubicar en la rama que se va a actulizar
+=======
+   Una vez que se ha hecho un commit de los cambios, estos suelen volverse permanentes
+    -git checkout -> para desplazarte y revisar el historial de commits
+    -git revert (id)-> Es la mejor herramienta para deshacer cambios publics compartidos
+    -git reset (id)-> es mas adecuado para deshacer cambios privados locales
+
+    git branch -m master main -> cambiamos el nombre de la rama master a main
+
+    git reflog -> Recupera todos los id de los cambios realizados
+
+    git branch -> Para saber en que rama estoy
+    git branch nombre-rama -> Para crear una nueva rama
+    git checkout nombre-rama -> Me desplazo a traves de las ramas
+
+    git log --oneline --graph
+    
+>>>>>>> 01-rama
