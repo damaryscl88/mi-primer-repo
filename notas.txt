@@ -1,3 +1,8 @@
 git version
 git help
 cls -> limpia la consola
+git init ->  Solo se hace la primera ves.
+git status -s
+git add .
+git commit -m "Mensaje"
+git log --oneline
