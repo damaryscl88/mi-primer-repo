@@ -17,3 +17,5 @@ git config user.name
 
    Creamos el archivo .env(Van las configuraciones que no queremos que se suban al servidor)
    gitignore (Va el nombre de los archivos que no queremos que se suban al servidor)
+
+   git merge  -> Use las 2 ramas : Nos tenemos que ubicar en la rama que se va a actulizar
